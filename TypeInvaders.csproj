@@ -42,10 +42,8 @@
     <ApplicationManifest>app.manifest</ApplicationManifest>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="BloomFilter.cs" />
     <Compile Include="Classes\Enemy.cs" />
     <Compile Include="Classes\EnemyManager.cs" />
-    <Compile Include="QuadRenderer.cs" />
     <Compile Include="Game1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

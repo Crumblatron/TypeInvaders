@@ -63,9 +63,3 @@
 /processorParam:TextureFormat=Compressed
 /build:MarkedWord.spritefont
 
-#begin Shaders/Bloom.fx
-/importer:EffectImporter
-/processor:EffectProcessor
-/processorParam:DebugMode=Auto
-/build:Shaders/Bloom.fx
-
